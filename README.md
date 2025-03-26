@@ -1,1 +1,0 @@
-# Quantum-Circuits-Pennylane-GSOC-2025
